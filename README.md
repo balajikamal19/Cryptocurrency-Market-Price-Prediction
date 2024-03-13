@@ -1,2 +1,2 @@
 # Cryptocurrency-Market-Price-Prediction
-Predicting market price of cryptocurrency by using Regression Tree method
+Implemented a machine learning model for cryptocurrency price prediction using Random Forest (RainForest) and Convolutional Neural Network (CNN). Applied data science methodologies, identified key variables, and evaluated the model's performance. Overcame challenges, showcasing accurate predictions and robust performance. Keywords: Crypto, RainForest, CNN, Machine Learning.
